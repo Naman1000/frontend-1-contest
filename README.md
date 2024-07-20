@@ -1,5 +1,3 @@
-# frontend-1-contest
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
